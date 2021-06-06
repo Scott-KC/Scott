@@ -4,7 +4,7 @@ I have spent the better part of my last 5 years working full time, in a technica
 familiar with Java, SQL, HTML, CSS, and COBOL (yes COBOL). A few years ago I started to familiarize myself with Swift. I enjoyed my time learning but eventually 
 took a break, but I am back! I plan on using this space to commit some of the side projects I work on as I continue my learning journey. 
 
-I am currently working on a weather app called 'Simpli Weather'. It is coming together quite nicely, and it is a minimilistic weather app without all of the fluff. The idea behind this app is that you shouldn't have to dig for your current conditions it should be faceup immediately. 
+I am currently working on a weather app called 'Simplee Weather'. It is coming together quite nicely, and it is a minimilistic weather app without all of the fluff. The idea behind this app is that you shouldn't have to dig for your current conditions it should be faceup immediately. 
 
 
 <!---
